@@ -8,7 +8,7 @@ This repo is nothing more than a scratch pad for building documents with Sphinx.
 2. To have that document searchable.
 3. To have all contents of said document in a .md or .rst format.
 4. To deploy automatically through a pipeline.
-5. To lint during said deployment.
+5. To implement Vale during deployment to either a Microsoft or Google Style Guide.
 
 ## Timeline
 
